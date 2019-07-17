@@ -15,10 +15,16 @@ Great explaination of depth with videos and illustrations.
 shadow and light
 https://material.io/design/environment/light-shadows.html#shadows
 
-Text
+Dark theme
+https://material.io/design/color/dark-theme.html#properties
 
 
-Image
+https://medium.com/eightshapes-llc/color-in-design-systems-a1c80f65fa3
+
+## Text
+
+
+## Image
 
 ## Layout
 
@@ -37,3 +43,15 @@ https://material.io/design/layout/applying-density.html#
 
 Color picker tool
 https://material.io/design/color/the-color-system.html#tools-for-picking-colors
+
+Color Contrast Checker
+https://webaim.org/resources/contrastchecker/
+
+Link Contrast Checker
+https://webaim.org/resources/linkcontrastchecker/
+
+web accessibility evaluation system
+http://wave.webaim.org/
+
+Find me the good constrasts, for web accessibility, between these two colors:
+http://contrast-finder.tanaguru.com/
