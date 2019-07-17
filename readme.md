@@ -17,10 +17,9 @@ Text
 
 Image
 
-Layout
-https://material.io/design/layout/responsive-layout-grid.html#
+(Layout)[https://material.io/design/layout/responsive-layout-grid.html#]
 line length
 spacing
 grids
-(density)
+[density]
 (https://material.io/design/layout/applying-density.html#)
