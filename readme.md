@@ -4,22 +4,36 @@ I'm looking for more practical tips rather people could look quickly apply it to
 My hope is this list improve anyone eye for design and help people understand what makes one design better than another.
 What designers are looking for and why they might suggest a change.
 
-Color
-
+## Color
 
 Enviornment
-(shadow and depth)[https://material.io/design/environment/elevation.html#]
+shadow and depth
+https://material.io/design/environment/elevation.html#
+
 Great explaination of depth with videos and illustrations.
-(shadow and light)https://material.io/design/environment/light-shadows.html#shadows
+
+shadow and light
+https://material.io/design/environment/light-shadows.html#shadows
 
 Text
 
 
 Image
 
-(Layout)[https://material.io/design/layout/responsive-layout-grid.html#]
+## Layout
+
+https://material.io/design/layout/responsive-layout-grid.html#
+
 line length
 spacing
 grids
-[density]
-(https://material.io/design/layout/applying-density.html#)
+
+density
+https://material.io/design/layout/applying-density.html#
+
+
+
+## Tools
+
+Color picker tool
+https://material.io/design/color/the-color-system.html#tools-for-picking-colors
