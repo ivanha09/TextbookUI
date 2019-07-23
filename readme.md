@@ -21,6 +21,13 @@ https://material.io/design/color/dark-theme.html#properties
 
 https://medium.com/eightshapes-llc/color-in-design-systems-a1c80f65fa3
 
+
+https://uxmovement.com/content/how-color-saturation-affects-user-efficiency/
+
+
+Saturation
+https://uxmovement.com/content/why-you-should-avoid-bright-saturated-background-colors/
+
 ## Text
 
 
@@ -37,7 +44,9 @@ grids
 density
 https://material.io/design/layout/applying-density.html#
 
+### Forms
 
+https://uxdesign.cc/design-better-forms-96fadca0f49c
 
 ## Tools
 
