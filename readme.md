@@ -44,12 +44,10 @@ grids
 density
 https://material.io/design/layout/applying-density.html#
 
-### Forms
-
+Forms
 https://uxdesign.cc/design-better-forms-96fadca0f49c
 
-## Checkout Page
-
+Checkout Page
 https://medium.muz.li/these-11-tips-will-help-you-create-succesful-checkouts-b78f54a6751b
 
 
