@@ -51,6 +51,10 @@ Checkout Page
 https://medium.muz.li/these-11-tips-will-help-you-create-succesful-checkouts-b78f54a6751b
 
 
+## Icon
+
+https://medium.muz.li/the-design-guide-to-ios-and-android-app-icons-c1a73d3f278f
+
 ## Tools
 
 Color picker tool
