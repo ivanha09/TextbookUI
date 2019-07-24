@@ -68,6 +68,9 @@ http://wave.webaim.org/
 Find me the good constrasts, for web accessibility, between these two colors:
 http://contrast-finder.tanaguru.com/
 
+
+## Resources
+
 Open Source SVG illustrations
 https://undraw.co/
 
