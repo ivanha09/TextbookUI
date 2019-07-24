@@ -1,8 +1,4 @@
-When designing for the web it makes sense that the materials to teach it would be on it as well.
-I wanted to start a resources for design of web and mobile.
-I'm looking for more practical tips rather people could look quickly apply it to their own design. If you have any suggestions please create a pull request.
-My hope is this list improve anyone eye for design and help people understand what makes one design better than another.
-What designers are looking for and why they might suggest a change.
+Collection of useful links for learning UI related topics with tools as well.
 
 ## Color
 
@@ -72,6 +68,8 @@ http://wave.webaim.org/
 Find me the good constrasts, for web accessibility, between these two colors:
 http://contrast-finder.tanaguru.com/
 
+Open Source SVG illustrations
+https://undraw.co/
 
 ## UX
 
