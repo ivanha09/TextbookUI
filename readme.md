@@ -1,5 +1,9 @@
 Collection of useful links for learning UI related topics with tools as well.
 
+## Basics
+User Interface Design Basics
+https://www.usability.gov/what-and-why/user-interface-design.html
+
 ## Color
 
 Enviornment
@@ -70,6 +74,12 @@ http://contrast-finder.tanaguru.com/
 
 Bulma is a free, open source CSS framework based on Flexbox.
 https://bulma.io/
+
+
+## Terminology
+
+User Interface Elements
+https://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html
 
 ## Resources
 
