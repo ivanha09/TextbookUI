@@ -79,6 +79,8 @@ http://contrast-finder.tanaguru.com/
 ### Bulma is a free, open source CSS framework based on Flexbox.
 https://bulma.io/
 
+### SVG patterns
+http://www.heropatterns.com/
 
 ## Terminology
 
