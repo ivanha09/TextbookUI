@@ -52,7 +52,7 @@ If the affinity diagram notes are input into a digital format another way to fin
 ## Task modelling
 If the users are doing taskes with some type of process. It is possible to chart the process by each decision point which branches off dpending on the users choice. Breakdowns can be shown with different notation to show unsatisfied goals. Focus on the loops and breakdowns to find ways to make them more efficent.
 
-UML Activity diagrams are suitable for this type of modeling.
+### UML Activity diagrams are suitable for this type of modeling.
 * flow of control
 * Activity contains action, object, control
 https://www.uml-diagrams.org/activity-diagrams.html
@@ -61,4 +61,10 @@ https://www.uml-diagrams.org/activity-diagrams.html
 * Object Flow Edge - represented with a box are the activity edges. (Updated Order)--[updated]-->(Review Order)
 * Interrupting Edge - represented with lightening-bolt. Used to show flow in interrupted.
 Business Process Model and Notation(BPMN) is too detailed for this stage.
+
+### Customer Journey Maps
+This map outlines the users initial intent through satisfaction of achieving that intent. Customer journey usually focuses on what the company is communicating the their customer at different stages. They also account for the customers emotion at each step. These are used to spot inefficiencies in a customers interaction with a company.
+
+## Personas or Market Segments
+When gathering information from different people. These people might group into different groups. By grouping these people and presenting this information designers and developers can create things for that group of people in mind.
 
