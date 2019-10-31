@@ -59,6 +59,11 @@ https://medium.muz.li/these-11-tips-will-help-you-create-succesful-checkouts-b78
 
 https://medium.muz.li/the-design-guide-to-ios-and-android-app-icons-c1a73d3f278f
 
+## Mobile
+
+### A Comprehensive Guide To Mobile App Design
+https://www.smashingmagazine.com/2018/02/comprehensive-guide-to-mobile-app-design/
+
 ## Tools
 
 ### Color picker tool
