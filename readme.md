@@ -95,9 +95,13 @@ https://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html
 
 ## Resources
 
+### UI Kits
+https://www.justinmind.com/ui-kits
+
 ### Open Source SVG illustrations
 https://undraw.co/
 
 ## UX
 
 https://uxmovement.com/
+
